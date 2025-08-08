@@ -1,0 +1,5 @@
+example/
+public/
+.vite/
+vite.config.js
+*.log

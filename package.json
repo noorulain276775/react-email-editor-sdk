@@ -1,0 +1,21 @@
+{
+  "name": "email-editor-sdk",
+  "main": "src/EmailEditor.jsx",
+  "module": "src/EmailEditor.jsx",
+  "files": ["src"],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["email", "editor", "react", "sdk"],
+  "author": "Noor",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
